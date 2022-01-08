@@ -1,6 +1,10 @@
-# anim
+# Just a random UI
 
-A new Flutter project.
+This app consist of UI for a simple Login and SignUp app with obboarding and OTP screen, that I created duing `10 days of code by IITM` and projects were assigned by `Dezenix`.
+
+# screenshots
+<img src="Screenshots/img1.png" width="230"/> <img src="Screenshots/img2.png" width="230"/><br/>
+<img src="Screenshots/img3.png" width="230"/> <img src="Screenshots/img4.png" width="230"/> <img src="Screenshots/img5.png" width="230"/>
 
 ## Getting Started
 
